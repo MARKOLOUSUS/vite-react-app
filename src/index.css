@@ -6,6 +6,7 @@ body{
     background-image: url('https://media1.tenor.com/m/mksk_yHHIsMAAAAd/asat-pramad-asat-pramad-hsr.gif');
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
 }
 h1{
     color:rgb(255, 255, 255);

@@ -1,7 +1,7 @@
 function Profile() {
   return (
     <>
-    <h1 class="center">Lord of Saṃvartasthāyi</h1>
+    <h2 class="center insidecontain">Lord of Saṃvartasthāyi</h2>
     <div>
       <h1>Asat Pramad</h1>
         <div class="profile left">

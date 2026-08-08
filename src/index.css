@@ -17,6 +17,18 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url("https://thephrasemaker.com/wp-content/uploads/2026/05/HSR-Asat-Pramad-1024x683.jpg");
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-position: start;
+    background-size: contain;
+    background-repeat: repeat;
+}
+.insidecontain {
+  font-size: 200px;
+  font-family: Impact;
+  margin: 0;
+  line-height: 1;
 }
 
 .left{
